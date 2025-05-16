@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Project: Fast React Pizza Co.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive pizza menu built with the React library. This project demonstrates the fundamentals of creating React components, passing props, conditional rendering, and handling lists.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This application displays a menu of pizzas with their names, ingredients, prices, and images. It also indicates when a pizza is sold out and informs about the pizzeria's opening hours, allowing (in the future) for online ordering.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React:** A JavaScript library for building user interfaces.
+- **JSX:** A syntax extension to JavaScript recommended for use with React.
+- **CSS:** For styling the components (the `index.css` file is included).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run Locally
 
-### `npm test`
+1.  Make sure you have Node.js and npm (or yarn) installed on your machine.
+2.  Clone this repository to your computer:
+    ```bash
+    git clone <YOUR_REPOSITORY_URL>
+    ```
+3.  Navigate to the project directory in your terminal:
+    ```bash
+    cd pizza-menu
+    ```
+4.  Install the dependencies:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+5.  Start the development server:
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
+6.  Open your browser at [http://localhost:3000](http://localhost:3000) to see the application running.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Current Features
 
-### `npm run build`
+- Display of a list of pizzas with name, ingredients, price, and image.
+- Visual indication of sold-out pizzas.
+- Information about the pizzeria's opening hours.
+- An "Order" button (future functionality).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Planned Next Steps
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Implement the functionality of the "Order" button.
+- Add a shopping cart.
+- Improve styling and responsiveness.
+- Potentially integrate data from a backend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Learning
 
-### `npm run eject`
+This project is part of my React learning journey and serves as practice for understanding component lifecycle, data manipulation, and building dynamic interfaces.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contribution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+As this is a personal learning project, external contributions are not expected at this time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to copy and paste this content into your `README.md` file. Remember to replace `<YOUR_REPOSITORY_URL>` with the actual URL of your repository on GitHub.
