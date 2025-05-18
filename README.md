@@ -12,6 +12,14 @@ This application displays a menu of pizzas with their names, ingredients, prices
 - **JSX:** A syntax extension to JavaScript recommended for use with React.
 - **CSS:** For styling the components (the `index.css` file is included).
 
+## Key Learning Points
+
+- Conditional rendering using the ternary operator to show alternative UI elements.
+- Using template literals for dynamic class names in JSX.
+- Component-based architecture with clear separation of concerns.
+- Handling lists and keys properly when rendering arrays in React.
+- Managing component props for reusable and clean code.
+
 ## How to Run Locally
 
 1.  Make sure you have Node.js and npm (or yarn) installed on your machine.
