@@ -1,0 +1,7 @@
+{
+  "version": "0.2",
+  "language": "en,pt-BR",
+  "words": ["mozarella", "spinaci", "funghi", "salamino", "aragula", "burrata"],
+  "ignoreWords": [],
+  "ignoreRegExpList": []
+}
