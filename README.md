@@ -25,7 +25,7 @@ This application displays a menu of pizzas with their names, ingredients, prices
 1.  Make sure you have Node.js and npm (or yarn) installed on your machine.
 2.  Clone this repository to your computer:
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone <https://github.com/saleh-coder/pizza-menu.git>
     ```
 3.  Navigate to the project directory in your terminal:
     ```bash
@@ -66,7 +66,3 @@ This project is part of my React learning journey and serves as practice for und
 ## Contribution
 
 As this is a personal learning project, external contributions are not expected at this time.
-
----
-
-Feel free to copy and paste this content into your `README.md` file. Remember to replace `<YOUR_REPOSITORY_URL>` with the actual URL of your repository on GitHub.
