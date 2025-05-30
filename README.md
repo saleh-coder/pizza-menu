@@ -1,5 +1,7 @@
 # Project: Fast React Pizza Co.
 
+![App Screenshot] (./assets/pizza-menu.png)
+
 A simple and responsive pizza menu built with the React library. This project demonstrates the fundamentals of creating React components, passing props, conditional rendering, and handling lists.
 
 ## Overview
